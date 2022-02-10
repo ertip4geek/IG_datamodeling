@@ -2,14 +2,14 @@
 
 Vamos a crear el Diagrama de relación de entidad para la base de datos de Instagram, un diagrama muy similar a este:
 
-![Diagrama de Instagram](https://github.com/ertip4geek/IG_datamodeling.git/blob/master/assets/QuickDBD-IG.png?raw=true)
+![Diagrama de Instagram](https://github.com/ertip4geek/IG_datamodeling/blob/master/assets/QuickDBD-IG.png)
 [Click para abrir el diagrama](https://app.quickdatabasediagrams.com/#/d/TxUBxo)
 
 [PDF documentation](https://github.com/ertip4geek/IG_datamodeling.git/blob/master/assets/QuickDBD-IG.pdf)
 
 > 🔥 Puedes usar esta herramienta GRATUITA para practicar su diagrama por primera vez: https://app.quickdatabasediagrams.com/#/d/
 
-![DataModeling Concept](https://github.com/ertip4geek/IG_datamodeling.git/blob/master/assets/preview.png?raw=true)
+![DataModeling Concept](https://github.com/ertip4geek/IG_datamodeling/blob/master/assets/preview.png)
 
 ## 📝Instrucciones
 
